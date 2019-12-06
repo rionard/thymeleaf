@@ -56,7 +56,7 @@ public final class ContentTypeUtils {
     private static final String[] MIME_TYPES_ATOM = new String[] {"application/atom+xml"};
     private static final String[] MIME_TYPES_JAVASCRIPT =
             new String[] {"application/javascript", "application/x-javascript", "application/ecmascript",
-                          "text/javascript", "text/ecmascript"};
+                          "text/javascript", "text/ecmascript", "text/template"};
     private static final String[] MIME_TYPES_JSON = new String[] {"application/json"};
     private static final String[] MIME_TYPES_CSS = new String[] {"text/css"};
     private static final String[] MIME_TYPES_TEXT = new String[] {"text/plain"};
